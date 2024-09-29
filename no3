@@ -1,0 +1,4 @@
+a=int(input("enter the 5 digit number"))
+reversed_a =(int(str(a)[::-1]))
+c=a-reversed_a
+print(c)
